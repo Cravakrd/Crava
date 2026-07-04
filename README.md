@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -162,7 +162,7 @@ font-size:14px;
 
 <div class="card">
 
-<img src="cr.png" class="logo">
+<img src="Cr.png" class="logo">
 
 <div class="line"></div>
 
