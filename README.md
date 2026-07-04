@@ -162,7 +162,7 @@ font-size:14px;
 
 <div class="card">
 
-<img src="Cr.png" class="logo">
+<img src="EA51960A-D2E9-4B18-BFFE-AD5BB10CC7B6.png" class="logo">
 
 <div class="line"></div>
 
